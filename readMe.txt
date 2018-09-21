@@ -10,4 +10,4 @@
         aws_secret_access_key = ahHjjoSO/pe+ax/23SpA/Q5FqrEHkSdUlRwFNb09
 -- npm install aws-sdk
 -- npm install node_modules
--- npm install express
+-- npm install expres
